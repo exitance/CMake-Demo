@@ -1,0 +1,3 @@
+D:/Desktop/notes/cmake_mingw64/Demo/build/CMakeFiles/Hello.dir
+D:/Desktop/notes/cmake_mingw64/Demo/build/CMakeFiles/edit_cache.dir
+D:/Desktop/notes/cmake_mingw64/Demo/build/CMakeFiles/rebuild_cache.dir
